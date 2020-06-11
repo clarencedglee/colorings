@@ -1,2 +1,0 @@
-# colorings
-Created with CodeSandbox
